@@ -1,0 +1,36 @@
+:root {
+  --color-red: #da4156;
+}
+img {
+  height: auto;
+  width: auto;
+}
+body {
+  font-family: "Gill Sans", sans-serif;
+}
+
+.App-header {
+  display: flex;
+  border-bottom: 3px solid var(--color-red);
+}
+
+.App-header h1 {
+  color: var(--color-red);
+
+}
+
+.App-body {
+  margin-top: 4%;
+  margin-left: 5%;
+}
+
+.App-footer {
+  position: absolute;
+  bottom: 0px;
+  border-top: 3px solid var(--color-red);
+  width: 99%;
+}
+
+.App-footer p {
+  text-align: center;
+}
