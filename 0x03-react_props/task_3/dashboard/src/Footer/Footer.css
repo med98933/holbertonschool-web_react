@@ -1,0 +1,11 @@
+
+.App-footer {
+    position: absolute;
+    bottom: 0px;
+    border-top: 3px solid var(--color-red);
+    width: 99%;
+  }
+  
+  .App-footer p {
+    text-align: center;
+  }

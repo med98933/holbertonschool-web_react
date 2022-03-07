@@ -1,0 +1,19 @@
+.Notifications {
+    border: thin dotted #e0344a;
+    padding: 16px;
+  }
+
+  .Notifications p {
+    margin: 0;
+    margin-top: 15px;
+  }
+  
+  [data-priority="default"] {
+    color: blue;
+  }
+  
+  [data-priority="urgent"] {
+    color: red;
+  }
+
+  
